@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnfecApplication</string>
+    <string name="id_label">Id</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="company_name_label">Company Name</string>
+    <string name="website_label">Website</string>
+    <string name="response_failure">Network Response Failure</string>
+</resources>
